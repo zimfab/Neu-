@@ -9,3 +9,6 @@
 | A    | B | C |
 | C      | B        |  A |
 | X | Y     |   Z |
+
+*Kursiv*
+**Fett**
