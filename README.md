@@ -4,7 +4,7 @@
 
 
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+|Links| Mitte  | Rechts |
 | :------------ |:---------------:| -----:|
 | A    | B | C |
 | C      | B        |  A |
